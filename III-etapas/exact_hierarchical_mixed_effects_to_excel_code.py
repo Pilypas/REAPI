@@ -80,7 +80,7 @@ import statsmodels.formula.api as smf
 # USER SETTINGS
 # =========================================================
 
-INPUT_EXCEL_PATH = "Book1.xlsx"
+INPUT_EXCEL_PATH = "Book2.xlsx"
 INPUT_SHEET_NAME = 0              # sheet name or sheet index
 OUTPUT_EXCEL_PATH = "exact_hierarchical_mixed_effects_output.xlsx"
 
